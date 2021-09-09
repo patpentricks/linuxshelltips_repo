@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+tmp/
+*.log
+
+*.zip
+.idea/
+yarn.lock package-lock.json
+.tmp*
+
+env/
